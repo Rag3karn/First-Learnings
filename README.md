@@ -1,4 +1,4 @@
-### Exploring the field of data science,analysis and machine learning including AI
+## Data Scientist and Machine Learning Enthusiast
 
 <!--
 **Rag3karn/Rag3karn** is a portfolio repository because its `README.md` (this file) appears on your GitHub profile.
