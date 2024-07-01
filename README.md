@@ -1,4 +1,4 @@
-## Data Scientist and Machine Learning Enthusiast
+## My first work repository of my initial learnings.
 
 <!--
 **Rag3karn/Rag3karn** is a portfolio repository because its `README.md` (this file) appears on your GitHub profile.
